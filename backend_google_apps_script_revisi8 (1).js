@@ -3,7 +3,7 @@
 /**
  * Konfigurasi Spreadsheet & Nama/GID Sheet Database EduSpace LMS
  */
-const SPREADSHEET_ID = '197GchnVUrQKU4uMRHsOLlHB5ZV-1gDPvoD0L2zpvM5Y';
+const SPREADSHEET_ID = '17vCTEybVQKMPo0qZQafJsfvrRbo46yrYtRuu2nKKn4w';
 
 const EVAL_COLS_ = ['Jenis_Evaluasi', 'Pertemuan', 'Nilai', 'Status', 'Feedback_Guru', 'Detail_Jawaban', 'Jumlah_Benar', 'Jumlah_Soal'];
 
