@@ -10,8 +10,8 @@ const EVAL_COLS_ = ['Jenis_Evaluasi', 'Pertemuan', 'Nilai', 'Status', 'Feedback_
 const SHEET_GIDS = {
   DATA_SISWA: 0,              // gid=0 -> Data Siswa
   USERS_DEMO: 2025841044,     // gid=2025841044 -> Akses Demo (Users)
-  HASIL_EVALUASI: 1495900482, // gid=1495900482 -> Hasil Evaluasi & Refleksi
-  TRANSAKSI_LMS: 245669689    // gid=245669689 -> Database Pengujian LMS (Transaksi Belajar)
+  HASIL_EVALUASI: 1495900482, // gid=834250683 -> Hasil Evaluasi & Refleksi
+  TRANSAKSI_LMS: 163976481    // gid=163976481 -> Database Pengujian LMS (Transaksi Belajar)
 };
 
 const SHEET_NAMES = {
