@@ -2135,7 +2135,7 @@
 
     // ISI dengan URL Web App Apps Script (…/exec) bila halaman ini dibuka di luar Apps Script
     // (mis. file HTML lokal / hosting lain). Jika dijalankan dari Web App Apps Script, biarkan kosong.
-    const GAS_WEBAPP_URL = 'AKfycbwfiMuzXcvV9QqLWFYtK34Oy37z439AmvCWRN3q0MDUdEj4_fwBuba5QIGb1LWqs_fz0A';
+   const GAS_WEBAPP_URL = 'https://script.google.com/macros/s/AKfycbwfiMuzXcvV9QqLWFYtK34Oy37z439AmvCWRN3q0MDUdEj4_fwBuba5QIGb1LWqs_fz0A/exec';
     const IS_GAS_INSIDE = !!(typeof google !== 'undefined' && google.script && google.script.run);
     const IS_GAS_REMOTE = !IS_GAS_INSIDE && /^https:\/\/script\.google(usercontent)?\.com\//.test(String(GAS_WEBAPP_URL || '').trim());
     const IS_GAS_LIVE = IS_GAS_INSIDE || IS_GAS_REMOTE;
