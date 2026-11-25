@@ -12,7 +12,7 @@ const REFLEKSI_COLS_ = ['Eval_ID', 'Tanggal', 'User_ID', 'Nama_Siswa', 'Skala_Pe
 const SHEET_GIDS = {
   DATA_SISWA: 0,              // gid=0 -> Data Siswa
   USERS_DEMO: 2025841044,     // gid=2025841044 -> Akses Demo (Users)
-  HASIL_EVALUASI: 260387609,  // gid=260387609 -> Hasil Evaluasi (Kuis Evaluasi & Studi Kasus)
+  HASIL_EVALUASI: 1294182734,  // gid=1294182734 -> Hasil Evaluasi (Kuis Evaluasi & Studi Kasus)
   HASIL_REFLEKSI: 834250683,  // gid=834250683 -> Hasil Refleksi siswa
   TRANSAKSI_LMS: 163976481    // gid=163976481 -> Database Pengujian LMS (Transaksi Belajar)
 };
